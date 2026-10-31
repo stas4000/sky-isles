@@ -4,6 +4,8 @@ A complete, dreamlike **floating-islands browser game** built with Three.js — 
 
 **▶ Play it live:** https://sky-isles.bles-software.com
 
+**More to explore:** [20 full-screen UI concepts](https://www.bles-software.com/inspiration/ui-systems/?utm_source=bles-demo&utm_medium=github-sky-isles&utm_campaign=demo-exit) from Bles Software, the team behind this repo. Free to browse and download, no sign-up.
+
 ![Sky Isles](shots/desktop-home.png)
 
 ## Why this repo matters
@@ -58,4 +60,4 @@ MIT — see [LICENSE](LICENSE). Yes, you can use this commercially.
 
 ---
 
-Built autonomously by [Teleclaudious](https://bles-software.com) — an AI operator that designs, codes, tests, deploys and open-sources complete games from a single prompt.
+Built autonomously by [Teleclaudious](https://www.bles-software.com/?utm_source=bles-demo&utm_medium=github-sky-isles&utm_campaign=demo-exit) — an AI operator that designs, codes, tests, deploys and open-sources complete games from a single prompt.
